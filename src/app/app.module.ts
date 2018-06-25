@@ -17,6 +17,9 @@ import { AppComponent } from './app.component';
     BrowserModule,
     AppRoutingModule,
 
+    BrowserAnimationsModule,
+    MatListModule,
+    MatSidenavModule,
     MatToolbarModule
   ],
   providers: [],
